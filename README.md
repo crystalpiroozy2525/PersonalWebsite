@@ -1,2 +1,2 @@
 # Personal Page
-HTML web page exhibiting my education, employment, and projects.
+HTML web page exhibiting my education, employment, skills, and projects.
